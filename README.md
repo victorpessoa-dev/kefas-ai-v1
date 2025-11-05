@@ -6,7 +6,7 @@ A **Kefas AI API** é uma API REST desenvolvida com **Node.js + Express** que in
 
 ---
 
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
@@ -16,27 +16,27 @@ A **Kefas AI API** é uma API REST desenvolvida com **Node.js + Express** que in
 
 ---
 
-## Instalação e execução local
+### Instalação e execução local
 
-# Clonar o repositório
+#### Clonar o repositório
 git clone https://github.com/victorpessoa-dev/kefas-ai-v1.git
 cd Kefas-AI-API
 
-# Instalar dependências
+#### Instalar dependências
 npm install
 
-# Rodar em modo de desenvolvimento
+#### Rodar em modo de desenvolvimento
 npm run dev
 
-# Ou iniciar normalmente
+#### Ou iniciar normalmente
 npm start
 
 ---
 
 
-## Rotas da API
+### Rotas da API
 
-### POST /chat
+#### POST /chat
 
 Gera uma resposta do assistente católico com base na mensagem enviada.
 
@@ -53,12 +53,12 @@ Resposta:
 
 ---
 
-## Licença
+### Licença
 
 Este projeto está sob a licença ISC — sinta-se à vontade para usar e adaptar.
 
 ---
 
-## Autor
+### Autor
 
 Victor Pessoa 
