@@ -1,21 +1,10 @@
+node_modules/
+npm-debug.log
 
-backend/node_modules/
-backend/npm-debug.log
-
-
-frontend/node_modules/
-frontend/build/
-frontend/dist/
-frontend/.cache/
-
-
-backend/.env
-frontend/.env
-
+.env
 
 logs/
 *.log
 *.log.*
-
 
 .vscode/
