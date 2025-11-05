@@ -19,17 +19,17 @@ A **Kefas AI API** é uma API REST desenvolvida com **Node.js + Express** que in
 ### Instalação e execução local
 
 ##### Clonar o repositório
-git clone https://github.com/victorpessoa-dev/kefas-ai-v1.git
-cd Kefas-AI-API
+`git clone https://github.com/victorpessoa-dev/kefas-ai-v1.git`
+`cd Kefas-AI-API`
 
 ##### Instalar dependências
-npm install
+`npm install`
 
 ##### Rodar em modo de desenvolvimento
-npm run dev
+`npm run dev`
 
 ##### Ou iniciar normalmente
-npm start
+`npm start`
 
 ---
 
